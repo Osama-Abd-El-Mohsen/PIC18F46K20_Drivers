@@ -1,0 +1,7 @@
+#ifndef GPIO_CFG_H_
+#define GPIO_CFG_H_
+
+#define GPIO_PIN_CONFIG CONFIG_ENABLE
+#define GPIO_PORT_CONFIG CONFIG_ENABLE
+
+#endif
